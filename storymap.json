@@ -1,0 +1,194 @@
+{
+  "storymap": {
+    "language": "zh-cn",
+    "map_type": "osm:standard",
+    "map_as_image": false,
+    "slides": [
+      {
+        "type": "overview",
+        "text": {
+          "headline": "2019-02 云南",
+          "text": ""
+        }
+      },
+      {
+        "location": {
+          "lat": 25.090405,
+          "lon": 102.778693
+        },
+        "text": {
+          "headline": "02-06 昆明金殿",
+          "text": " "
+        },
+        "media": {
+          "url": "./media/02-06.jpg"
+        }
+      },
+      {
+        "location": {
+          "lat": 25.683972,
+          "lon": 100.175333
+        },
+        "text": {
+          "headline": "02-07 大理",
+          "text": "晚上开到大理，古城外还在堵车，于是找了家评价好的回民手抓饭，确实名副其实。"
+        },
+        "media": {
+          "url": "./media/02-07.jpg"
+        }
+      },
+      {
+        "location": {
+          "lat": 26.873402,
+          "lon": 100.239677
+        },
+        "text": {
+          "headline": "02-08 丽江",
+          "text": "大理和丽江早就来过，有点资格撇撇嘴说：太商业化了，所以主要还是找了家馆子吃饭。"
+        },
+        "media": {
+          "url": "./media/02-08.jpg"
+        }
+      },
+      {
+        "location": {
+          "lat": 26.983305,
+          "lon": 100.439945
+        },
+        "text": {
+          "headline": "02-08 金沙江",
+          "text": "丽宁公路，金沙江观景台"
+        },
+        "media": {
+          "url": "./media/02-08.02.jpg"
+        }
+      },
+      {
+        "location": {
+          "lat": 27.287688,
+          "lon": 100.858559
+        },
+        "text": {
+          "headline": "02-08 宁蒗彝族自治县",
+          "text": "泸沽湖机场就建在宁蒗县内"
+        }
+      },
+      {
+        "location": {
+          "lat": 27.749554,
+          "lon": 100.777023
+        },
+        "text": {
+          "headline": "",
+          "text": "<iframe width='600px' height='600px' border-width='0' src='./media/reveal.js/02-09.html'></iframe>"
+        },
+        "media": {
+          "url": ""
+        }
+      },
+      {
+        "location": {
+          "lat": 27.170844,
+          "lon": 101.266548
+        },
+        "text": {
+          "headline": "02-10 四川 格萨拉生态旅游区",
+          "text": "有很大的露营营地。路过吃饭。"
+        }
+      },
+      {
+        "location": {
+          "lat": 26.5882,
+          "lon": 101.72505
+        },
+        "text": {
+          "headline": "02-10 攀枝花",
+          "text": "路过。原来确实有一种花叫攀枝花，而且能吃，因为之后在馆子里来了一盘。"
+        }
+      },
+      {
+        "location": {
+          "lat": 25.855422,
+          "lon": 101.766751
+        },
+        "text": {
+          "headline": "",
+          "text": "<iframe width='600px' height='600px' border-width='0' src='./media/reveal.js/02-11.html'></iframe>"
+        }
+      },
+      {
+        "location": {
+          "lat": 25.107636,
+          "lon": 102.748656
+        },
+        "text": {
+          "headline": "昆明",
+          "text": "休息，休息。"
+        }
+      },
+      {
+        "location": {
+          "lat": 23.618668,
+          "lon": 102.83047
+        },
+        "text": {
+          "headline": "",
+          "text": "<iframe width='600px' height='600px' border-width='0' src='./media/reveal.js/02-14.html'></iframe>"
+        }
+      },
+      {
+        "location": {
+          "lat": 23.638472,
+          "lon": 103.057844
+        },
+        "text": {
+          "headline": "",
+          "text": "<iframe width='600px' height='600px' border-width='0' src='./media/reveal.js/02-15.01.html'></iframe>"
+        }
+      },
+      {
+        "location": {
+          "lat": 23.123478,
+          "lon": 102.746076
+        },
+        "text": {
+          "headline": "",
+          "text": "<iframe width='600px' height='600px' border-width='0' src='./media/reveal.js/02-15.02.html'></iframe>"
+        },
+        "media": {
+          "url": ""
+        }
+      },
+      {
+        "location": {
+          "lat": 24.411973,
+          "lon": 102.850967
+        },
+        "text": {
+          "headline": "02-16 江川三道菜",
+          "text": "总店在玉溪市江川区李家大院"
+        }
+      },
+      {
+        "location": {
+          "lat": 24.979488,
+          "lon": 102.657388
+        },
+        "text": {
+          "headline": "",
+          "text": "<iframe width='600px' height='600px' border-width='0' src='./media/reveal.js/02-17.01.html'></iframe>"
+        }
+      },
+      {
+        "location": {
+          "lat": 24.975949,
+          "lon": 102.629875
+        },
+        "text": {
+          "headline": "",
+          "text": "<iframe width='600px' height='600px' border-width='0' src='./media/reveal.js/02-17.02.html'></iframe>"
+        }
+      }
+    ]
+  }
+}
